@@ -1,12 +1,24 @@
-## Hi there 👋
+# LESSE — Software Engineering Laboratory
 
-<!--
+Welcome to the official GitHub organization of **LESSE** (Laboratório de Engenharia de Software), the Software Engineering Laboratory at **UNIPAMPA** (Federal University of Pampa, Brazil).
 
-**Here are some ideas to get you started:**
+We are dedicated to research, teaching, and development in the field of Software Engineering, with emphasis on collaborative tools, software quality, automation, and open-source technologies.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌐 About LESSE
+
+LESSE is composed of undergraduate and graduate students, along with faculty members, working on projects related to:
+
+- Systematic literature reviews and mappings
+- Integration of scientific tools
+- Open-source software development
+- Modern DevOps and deployment infrastructure
+- Academic and scientific outreach
+
+## 📢 Contact
+
+- 🌐 Website: [lesse.com.br](https://lesse.com.br/site)
+- 📧 Email: [lesse@unipampa.edu.br](mailto:lesse@unipampa.edu.br)
+
+## 🧪 License
+
+Each project within the organization may be released under a different open-source license. Please refer to the `LICENSE` file in each repository for details.
